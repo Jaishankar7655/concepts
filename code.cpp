@@ -2,6 +2,8 @@
 using namespace std;
 int main()
 {
+
+
     int arraySize = 5;
     int smallest = INT8_MAX;
     int arr[arraySize];
@@ -24,7 +26,7 @@ int main()
          cout << "index of largest value = " << largeIndex << endl;
        
     } 
-    cout << "largest value = " << large;
+    cout << "largest values are = " << large;
 
 
 
