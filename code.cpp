@@ -28,7 +28,10 @@ int main()
          cout << "index of largest value = " << largeIndex << endl;
        
     } 
-    cout << "largest values are = " << large;
+    cout << "largest values is   = " << large;
+
+
+    
 
 
 
