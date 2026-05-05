@@ -4,6 +4,8 @@ int main()
 {
 
 
+
+
     int arraySize = 5;
     int smallest = INT8_MAX;
     int arr[arraySize];
